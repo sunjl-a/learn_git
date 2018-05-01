@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 add something to debug
+=======
+add master file
+>>>>>>> Stashed changes
